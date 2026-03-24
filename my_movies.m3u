@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg", Big Buck Bunny
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg", Sintel - The Movie
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg", Tears of Steel (Sci-Fi)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg", Elephants Dream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg", For Bigger Blazes
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
