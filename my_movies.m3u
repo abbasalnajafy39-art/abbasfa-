@@ -14,3 +14,5 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg", For Bigger Blazes
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Caminandes_3_-_Llamigos_-_Poster.jpg/800px-Caminandes_3_-_Llamigos_-_Poster.jpg", Caminandes: Llamigos
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
